@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+joblib
+pydantic
+python-multipart
+python-dotenv
+email-validator
+twilio
